@@ -1,0 +1,3 @@
+class GatewayError extends Error {
+
+}

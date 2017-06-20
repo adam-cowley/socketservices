@@ -1,0 +1,17 @@
+{
+  "name": "socketservices",
+  "version": "1.0.0",
+  "description": "A small microservice test with websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Cowley <github@adamcowley.co.uk>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3",
+    "uuid": "^3.1.0"
+  }
+}
